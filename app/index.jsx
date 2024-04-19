@@ -7,8 +7,8 @@ export default function App() {
     <View style={styles.container}>
       <Text className="text-3xl font-pblack">muve</Text>
       <StatusBar style="auto" />
-      <Link href="/profile" className="font-blue">
-        Go to profile
+      <Link href="/home" className="font-blue">
+        Go to Home
       </Link>
     </View>
   );
